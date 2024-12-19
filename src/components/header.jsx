@@ -5,7 +5,7 @@ import './header.less'
 function Header() {
   return (
     <header className="header">
-      <h1>Stardew 999 Tracker - Ryan's a bell</h1>
+      <h1>Stardew Valley - 999 Tracker</h1>
       <nav className="nav">
         <Link className="nav_item" to="/fruits">Fruits</Link>
         <Link className="nav_item" to="/veggies">Veggies</Link>

@@ -1,118 +1,147 @@
 [
     {
         "name": "Blue Jazz (Indigo)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Blue Jazz (Periwinkle)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Blue Jazz (Dark Blue)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Blue Jazz (Blue)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Blue Jazz (Light Blue)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Blue Jazz (White)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Crocus",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Winter"]
     },
     {
         "name": "Fairy Rose (Salmon)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Fairy Rose (Lavender)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Fairy Rose (Indigo)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Fairy Rose (Blue)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Fairy Rose (Purple)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Fairy Rose (Cyan)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Poppy (Red)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Poppy (Orange)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Poppy (White)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Summer Spangle (Pink)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Summer Spangle (Salmon)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Summer Spangle (Yellow)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Summer Spangle (Cyan)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Summer Spangle (Blue)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Summer Spangle (Purple)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Sunflower",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer", "Fall"]
     },
     {
         "name": "Sweet Pea",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Tulip (Red)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Tulip (Pink)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Tulip (Lilac)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Tulip (Lavender)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Tulip (Yellow)",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     }
 ]

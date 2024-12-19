@@ -1,82 +1,127 @@
 [
     {
         "name": "Ancient Fruit",
-        "amountGot": 0
+        "amountGot": 0,
+        "when": ["Spring", "Summer", "Fall"]
     },
     {
         "name": "Apple",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Apricot",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Banana",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Blackberry",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Blueberry",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Cactus Fruit",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["All (Dessert)"]
     },
     {
         "name": "Cherry",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Coconut",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["All (Dessert)"]
     },
     {
         "name": "Crystal Fruit",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Winter"]
     },
     {
         "name": "Grape",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer", "Fall"]
+    },
+    {
+        "name": "Hot Pepper",
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Mango",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Orange",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Peach",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
+    },
+    {
+        "name": "Pineapple",
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Pomegranate",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
+    },
+    {
+        "name": "Powdermelon",
+        "amountGot": 0,
+        "seasons": ["Winter"]
+    },
+    {
+        "name": "Qi Fruit",
+        "amountGot": 0,
+        "seasons": ["All"]
+    },
+    {
+        "name": "Rhubarb",
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Salmonberry",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Spice Berry",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Starfruit",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Strawberry",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Wild Plum",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     }
 ]

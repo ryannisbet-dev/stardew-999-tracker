@@ -1,114 +1,132 @@
 [
     {
         "name": "Amaranth",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Artichoke",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Beet",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Bok Choy",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Broccoli",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Carrot",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Cauliflower",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Corn",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer", "Fall"]
     },
     {
         "name": "Eggplant",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Fiddlehead Fern",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Garlic",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Green Bean",
-        "amountGot": 0
-    },
-    {
-        "name": "Hot Pepper",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Hops",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Kale",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Parsnip",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Potato",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Pumpkin",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     },
     {
         "name": "Radish",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Red Cabbage",
-        "amountGot": 0
-    },
-    {
-        "name": "Rhubarb",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Summer Squash",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Taro Root",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Tea Leaves",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer", "Spring", "Fall"]
     },
     {
         "name": "Tomato",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer"]
     },
     {
         "name": "Unmilled Rice",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Spring"]
     },
     {
         "name": "Wheat",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Summer", "Fall"]
     },
     {
         "name": "Yam",
-        "amountGot": 0
+        "amountGot": 0,
+        "seasons": ["Fall"]
     }
 ]
