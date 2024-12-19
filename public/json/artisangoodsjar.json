@@ -1,0 +1,538 @@
+[
+    {
+        "name": "Aged Albacore Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Anchovy Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Blobfish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Blue Discus Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Bream Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Bullhead Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Carp Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Catfish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Chub Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Clam Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Cockle Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Crab Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Crayfish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Dorado Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Eel Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Flounder Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Ghostfish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Glacierfish Jr. Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Goby Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Halibut Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Herring Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Ice Pip Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Largemouth Bass Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Lava Eel Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Legend II Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Lingcod Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Lionfish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Lobster Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Midnight Carp Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Midnight Squid Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Ms. Angler Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Mussel Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Octopus Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Oyster Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Perch Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Periwinkle Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Pike Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Pufferfish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Radioactive Carp Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Rainbow Trout Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Red Mullet Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Red Snapper Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Salmon Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Sandfish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Sardine Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Scorpion Carp Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Sea Cucumber Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Sea Urchin Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Shad Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Shrimp Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Slimejack Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Smallmouth Bass Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Snail Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Son of Crimsonfish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Spook Fish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Squid Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Stingray Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Stonefish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Sturgeon Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Sunfish Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Super Cucumber Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Tiger Trout Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Tilapia Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Tuna Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Void Salmon Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Walleye Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Aged Woodskip Roe",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Amaranth",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Artichoke",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Beet",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Bok Choy",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Broccoli",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Carrot",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Cauliflower",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Cave Carrot",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Chanterelle",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Common Mushroom",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Corn",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Dandelion",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Eggplant",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Fiddlehead Fern",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Garlic",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Ginger",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Green Bean",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Hazelnut",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Hops",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Kale",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Leek",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Magma Cap",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Morel",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Parsnip",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Potato",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Pumpkin",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Purple Mushroom",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Radish",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Red Cabbage",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Snow Yam",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Spring Onion",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Summer Squash",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Taro Root",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Tea Leaves",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Tomato",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Unmilled Rice",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Wheat",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Wild Horseradish",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Winter Root",
+        "amountGot": 0
+    },
+    {
+        "name": "Pickles: Yam",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Ancient Fruit",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Apple",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Apricot",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Banana",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Blackberry",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Blueberry",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Cactus Fruit",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Cherry",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Coconut",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Cranberries",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Crystal Fruit",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Grape",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Hot Pepper",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Mango",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Melon",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Orange",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Peach",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Pineapple",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Pomegranate",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Powdermelon",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Qi Fruit",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Rhubarb",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Salmonberry",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Spice Berry",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Starfruit",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Strawberry",
+        "amountGot": 0
+    },
+    {
+        "name": "Jelly: Wild Plum",
+        "amountGot": 0
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Basic Fertilizer",
+        "amountGot": 0
+    },
+    {
+        "name": "Basic Retaining Soil",
+        "amountGot": 0
+    },
+    {
+        "name": "Deluxe Fertilizer",
+        "amountGot": 0
+    },
+    {
+        "name": "Deluxe Retaining Soil",
+        "amountGot": 0
+    },
+    {
+        "name": "Deluxe Speed-Gro",
+        "amountGot": 0
+    },
+    {
+        "name": "Hyper Speed-Gro",
+        "amountGot": 0
+    },
+    {
+        "name": "Quality Fertilizer",
+        "amountGot": 0
+    },
+    {
+        "name": "Quality Retaining Soil",
+        "amountGot": 0
+    },
+    {
+        "name": "Speed-Gro",
+        "amountGot": 0
+    },
+    {
+        "name": "Tree Fertilizer",
+        "amountGot": 0
+    }
+]

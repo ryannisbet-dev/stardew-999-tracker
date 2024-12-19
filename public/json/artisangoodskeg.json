@@ -1,0 +1,258 @@
+[
+    {
+        "name": "Beer",
+        "amountGot": 0
+    },
+    {
+        "name": "Coffee",
+        "amountGot": 0
+    },
+    {
+        "name": "Green Tea",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Amaranth",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Artichoke",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Beet",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Bok Choy",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Broccoli",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Carrot",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Cave Carrot",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Cauliflower",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Corn",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Dandelion",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Eggplant",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Fiddlehead Fern",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Garlic",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Ginger",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Green Bean",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Hazelnut",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Kale",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Leek",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Parsnip",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Potato",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Pumpkin",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Radish",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Red Cabbage",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Snow Yam",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Spring Onion",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Summer Squash",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Taro Root",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Tomato",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Unmilled Rice",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Wild Horseradish",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Winter Root",
+        "amountGot": 0
+    },
+    {
+        "name": "Juice: Yam",
+        "amountGot": 0
+    },
+    {
+        "name": "Mead",
+        "amountGot": 0
+    },
+    {
+        "name": "Pale Ale",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Ancient Fruit",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Apple",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Apricot",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Banana",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Blackberry",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Blueberry",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Cactus Fruit",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Cherry",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Coconut",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Cranberries",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Crystal Fruit",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Grape",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Hot Pepper",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Mango",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Melon",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Orange",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Peach",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Pineapple",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Pomegranate",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Powdermelon",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Qi Fruit",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Rhubarb",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Salmonberry",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Spice Berry",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Starfruit",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Strawberry",
+        "amountGot": 0
+    },
+    {
+        "name": "Wine: Wild Plum",
+        "amountGot": 0
+    }
+]

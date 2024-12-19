@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Albacore",
+        "amountGot": 0
+    },
+    {
+        "name": "Anchovy",
+        "amountGot": 0
+    },
+    {
+        "name": "Blobfish",
+        "amountGot": 0
+    },
+    {
+        "name": "Blue Discus",
+        "amountGot": 0
+    },
+    {
+        "name": "Bream",
+        "amountGot": 0
+    },
+    {
+        "name": "Bullhead",
+        "amountGot": 0
+    },
+    {
+        "name": "Carp",
+        "amountGot": 0
+    },
+    {
+        "name": "Catfish",
+        "amountGot": 0
+    },
+    {
+        "name": "Chub",
+        "amountGot": 0
+    },
+    {
+        "name": "Clam",
+        "amountGot": 0
+    },
+    {
+        "name": "Cockle",
+        "amountGot": 0
+    },
+    {
+        "name": "Crab",
+        "amountGot": 0
+    },
+    {
+        "name": "Crayfish",
+        "amountGot": 0
+    },
+    {
+        "name": "Dorado",
+        "amountGot": 0
+    },
+    {
+        "name": "Eel",
+        "amountGot": 0
+    },
+    {
+        "name": "Flounder",
+        "amountGot": 0
+    },
+    {
+        "name": "Ghostfish",
+        "amountGot": 0
+    },
+    {
+        "name": "Glacierfish Jr.",
+        "amountGot": 0
+    },
+    {
+        "name": "Goby",
+        "amountGot": 0
+    },
+    {
+        "name": "Halibut",
+        "amountGot": 0
+    },
+    {
+        "name": "Herring",
+        "amountGot": 0
+    },
+    {
+        "name": "Ice Pip",
+        "amountGot": 0
+    },
+    {
+        "name": "Largemouth Bass",
+        "amountGot": 0
+    },
+    {
+        "name": "Lava Eel",
+        "amountGot": 0
+    },
+    {
+        "name": "Legend II",
+        "amountGot": 0
+    },
+    {
+        "name": "Lingcod",
+        "amountGot": 0
+    },
+    {
+        "name": "Lionfish",
+        "amountGot": 0
+    },
+    {
+        "name": "Lobster",
+        "amountGot": 0
+    },
+    {
+        "name": "Midnight Carp",
+        "amountGot": 0
+    },
+    {
+        "name": "Midnight Squid",
+        "amountGot": 0
+    },
+    {
+        "name": "Ms. Angler",
+        "amountGot": 0
+    },
+    {
+        "name": "Mussel",
+        "amountGot": 0
+    },
+    {
+        "name": "Octopus",
+        "amountGot": 0
+    },
+    {
+        "name": "Oyster",
+        "amountGot": 0
+    },
+    {
+        "name": "Perch",
+        "amountGot": 0
+    },
+    {
+        "name": "Periwinkle",
+        "amountGot": 0
+    },
+    {
+        "name": "Pike",
+        "amountGot": 0
+    },
+    {
+        "name": "Pufferfish",
+        "amountGot": 0
+    },
+    {
+        "name": "Radioactive Carp",
+        "amountGot": 0
+    },
+    {
+        "name": "Rainbow Trout",
+        "amountGot": 0
+    },
+    {
+        "name": "Red Mullet",
+        "amountGot": 0
+    },
+    {
+        "name": "Red Snapper",
+        "amountGot": 0
+    },
+    {
+        "name": "Salmon",
+        "amountGot": 0
+    },
+    {
+        "name": "Sandfish",
+        "amountGot": 0
+    },
+    {
+        "name": "Sardine",
+        "amountGot": 0
+    },
+    {
+        "name": "Scorpion Carp",
+        "amountGot": 0
+    },
+    {
+        "name": "Sea Cucumber",
+        "amountGot": 0
+    },
+    {
+        "name": "Shad",
+        "amountGot": 0
+    },
+    {
+        "name": "Shrimp",
+        "amountGot": 0
+    },
+    {
+        "name": "Slimejack",
+        "amountGot": 0
+    },
+    {
+        "name": "Smallmouth Bass",
+        "amountGot": 0
+    },
+    {
+        "name": "Snail",
+        "amountGot": 0
+    },
+    {
+        "name": "Son of Crimsonfish",
+        "amountGot": 0
+    },
+    {
+        "name": "Spook Fish",
+        "amountGot": 0
+    },
+    {
+        "name": "Squid",
+        "amountGot": 0
+    },
+    {
+        "name": "Stingray",
+        "amountGot": 0
+    },
+    {
+        "name": "Stonefish",
+        "amountGot": 0
+    },
+    {
+        "name": "Sturgeon",
+        "amountGot": 0
+    },
+    {
+        "name": "Sunfish",
+        "amountGot": 0
+    },
+    {
+        "name": "Super Cucumber",
+        "amountGot": 0
+    },
+    {
+        "name": "Tiger Trout",
+        "amountGot": 0
+    },
+    {
+        "name": "Tilapia",
+        "amountGot": 0
+    },
+    {
+        "name": "Tuna",
+        "amountGot": 0
+    },
+    {
+        "name": "Void Salmon",
+        "amountGot": 0
+    },
+    {
+        "name": "Walleye",
+        "amountGot": 0
+    },
+    {
+        "name": "Woodskip",
+        "amountGot": 0
+    }
+]

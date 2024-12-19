@@ -58,7 +58,6 @@ function PageTemplate() {
 
     return (
         <div className="page">
-            <h1> {id.charAt(0).toUpperCase() + id.slice(1)} </h1>
             <table className="table_container">
                 <thead className="table_head">
                     <tr className="table_row">
