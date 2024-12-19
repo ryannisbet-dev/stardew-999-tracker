@@ -10,7 +10,7 @@ function PageTemplate() {
     useEffect(() => {
         let fetchData = async () => {
             try {
-                const response = await fetch(`../public/json/${id}.json`);
+                const response = await fetch(`../json/${id}.json`);
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
                 }
