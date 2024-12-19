@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import './styles.css'
+import './page.less'
 
 function PageTemplate() {
-    const { id } = useParams();
-    const [data, setData] = useState(null);
-    const [error, setError] = useState(null);
+    let { id } = useParams(),
+        [data, setData] = useState(null),
+        [error, setError] = useState(null);
 
     useEffect(() => {
-        const fetchData = async () => {
+        let fetchData = async () => {
             try {
                 const response = await fetch(`../public/json/${id}.json`);
                 if (!response.ok) {
@@ -24,18 +24,19 @@ function PageTemplate() {
             } catch (error) {
                 setError(error);
             }
-        };
+        },
+        localData = localStorage.getItem(`data-${id}`);
 
-        const localData = localStorage.getItem(`data-${id}`);
         if (localData) {
             setData(JSON.parse(localData));
         } else {
             fetchData();
         }
+        
     }, [id]);
 
-    const handleEdit = (index, key, value) => {
-        const newData = [...data];
+    let handleEdit = (index, key, value) => {
+        let newData = [...data];
         newData[index][key] = value;
         setData(newData);
         localStorage.setItem(`data-${id}`, JSON.stringify(newData));
@@ -50,26 +51,31 @@ function PageTemplate() {
     }
 
     return (
-        <div>
-            <h1> {id} </h1>
-            <table>
-                <thead>
-                    <tr>
-                        <th>Name</th>
-                        <th>Remaining</th>
-                        <th>Amount Got</th>
+        <div className="page">
+            <h1> {id.charAt(0).toUpperCase() + id.slice(1)} </h1>
+            <table className="table_container">
+                <thead className="table_head">
+                    <tr className="table_row">
+                        <th className="table_heading">Name</th>
+                        <th className="table_heading">Remaining</th>
+                        <th className="table_heading">Amount Got</th>
                     </tr>
                 </thead>
-                <tbody>
-                    {data.map((fruit, index) => (
-                        <tr key={index} className="tableRow">
-                            <td>{fruit.name}</td>
-                            <td>{999 - fruit.amountGot}</td>
+                <tbody className="table_body">
+                    {data.map((item, index) => (
+                        <tr key={index} className="body_row">
+                            <td>{item.name.charAt(0).toUpperCase() + item.name.slice(1)}</td>
+                            <td>{999 - item.amountGot}</td>
                             <td>
                                 <input
+                                    className="amount_input"
                                     type="number"
-                                    value={fruit.amountGot}
+                                    value={item.amountGot}
                                     onChange={(e) => handleEdit(index, 'amountGot', e.target.value)}
+                                    min={0}
+                                    max={999}
+                                    step={1}
+                                    onKeyDown={(e) => e.preventDefault()}
                                 />
                             </td>
                         </tr>

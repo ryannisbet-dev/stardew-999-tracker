@@ -11,8 +11,6 @@ function App() {
         <Route path="/:id" element={<PageTemplate />} />
       </Routes>
     </>
-    
-
   );
 }
 
